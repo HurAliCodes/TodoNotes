@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TodoNotes/static/css/main.c69e8168.css",
+    "main.js": "/TodoNotes/static/js/main.5df89f37.js",
+    "static/media/create.mp3": "/TodoNotes/static/media/create.53f296f4d241c00e2310.mp3",
+    "static/media/click.mp3": "/TodoNotes/static/media/click.e24e3d3905e012cf714d.mp3",
+    "static/media/complete.mp3": "/TodoNotes/static/media/complete.2e4f9ee5476c9356c8af.mp3",
+    "static/media/close.mp3": "/TodoNotes/static/media/close.b070217cc3ec9826fd89.mp3",
+    "static/media/notification.mp3": "/TodoNotes/static/media/notification.d73a48979f61f8154e1c.mp3",
+    "index.html": "/TodoNotes/index.html",
+    "main.c69e8168.css.map": "/TodoNotes/static/css/main.c69e8168.css.map",
+    "main.5df89f37.js.map": "/TodoNotes/static/js/main.5df89f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69e8168.css",
+    "static/js/main.5df89f37.js"
+  ]
+}
